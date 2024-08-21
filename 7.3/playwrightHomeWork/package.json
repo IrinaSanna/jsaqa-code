@@ -1,0 +1,17 @@
+{
+  "name": "playwrighthomework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "Irina Denisova",
+  "license": "ISC",
+  "description": "homework/7-03",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.4.1",
+    "playwright": "^1.46.1"
+  }
+}
